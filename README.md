@@ -7,7 +7,7 @@ This repository contains the solution developed for the **Credit Card Behaviour 
 
 Bank A aims to develop a **Behaviour Score** for its credit card portfolio. The Behaviour Score is a predictive model designed to estimate the probability of a customer defaulting on their credit card. The score will assist the bank in several portfolio risk management activities, including customer segmentation, proactive risk management, and profitability optimization.
 
-The hackathon required participants to:
+The hackathon required us participants to:
 - Build a model to predict the probability of default for customers in the **development dataset** (with labeled flags for defaults).
 - Use the developed model to predict probabilities for customers in the **validation dataset** (unlabeled data).
 - Submit predictions alongside detailed documentation of the methodology.
